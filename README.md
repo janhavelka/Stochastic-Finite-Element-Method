@@ -1,6 +1,5 @@
-----------------------------------------------
+
 # General
-----------------------------------------------
 
 SFEM-MC (Stochastic Finite Element Method - Monte Carlo) is a toolbox developed in a Matlab environment with a main purpose to examine 
 
