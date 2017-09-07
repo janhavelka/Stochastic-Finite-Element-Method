@@ -22,7 +22,7 @@ SFEM-MC includes many subroutines, but mainly it is separated into four division
 
 # Other information
 
-The principles and description of methods utilized in the code can be found in an enclosed pdf file.
+The principles and description of methods utilized in the code can be found in an enclosed pdf file and the literature therein.
 
 
 
