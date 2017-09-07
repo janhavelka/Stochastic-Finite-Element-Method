@@ -1,6 +1,5 @@
 
 # General
-
 SFEM-MC (Stochastic Finite Element Method - Monte Carlo) is a toolbox developed in a Matlab environment with a main purpose to examine 
 
 o recover parameter/s of elliptic and/or parabolic partial differential equations (PDEs) from Neumann-to-Dirichlet (NTD) or Dirichlet-to-Neumann (DTN) data on boundary.
