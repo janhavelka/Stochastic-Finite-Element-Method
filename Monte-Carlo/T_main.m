@@ -23,7 +23,7 @@ Input_lshape;
 % Input_simple_wall;
 
 % Edit MESH variables if needed (precompute necessary variables if they are missing)
-MESH = MeshBasics( MESH,PROBLEM );
+MESH = MeshBasics( MESH );
 
 % generate material fields according to MATERIAL.Settings
 MATERIAL = T_getMaterial( MESH,PROBLEM,MATERIAL );
