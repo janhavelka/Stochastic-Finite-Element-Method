@@ -7,6 +7,7 @@ The main intention of this toolbox is to provide insight into this technique by 
 # Installation
 
 There is no need of installation. The only thing needed is to include 'functions' folder into the matlab path.
+For stochastic-collocation and galerkin method it is necessary to download and include 'sglib' from http://ezander.github.io/sglib/
 
 # Compatibility
 
